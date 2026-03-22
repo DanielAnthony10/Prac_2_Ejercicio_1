@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prac_2_Ejercicio_1</string>
+    <string name="hint_cantidad">Ingrese cantidad a convertir</string>
+
+    <string name="dolares">Dólares</string>
+    <string name="soles">Soles</string>
+    <string name="euro">Euro</string>
+    <string name="libra">Libra</string>
+    <string name="rupia">Rupia</string>
+    <string name="real">Real</string>
+    <string name="peso">Peso Mexicano</string>
+    <string name="yuan">Yuan</string>
+    <string name="yen">Yen</string>
+
+    <string name="convertir">Convertir</string>
+</resources>
